@@ -1,0 +1,2 @@
+import webbrowser
+webbrowser.open('https://www.google.com/search?hl=en&tbm=isch&sxsrf=ALeKk03THgoVKekzyIFyou5gbVUePaoehA%3A1586990663449&source=hp&biw=1366&bih=695&ei=R46XXt-4GJGjgwea942IDg&q=roblox+twitter&oq=robl&gs_lcp=CgNpbWcQAxgAMgQIIxAnMgIIADICCAAyAggAMgIIADICCAAyAggAMgIIADICCAAyAggAShIIFxIOMGc5OWc4MGc2N2cxMDZKDQgYEgkwZzFnMWcxZzFQ1hJYyxlgzyFoAHAAeACAAWGIAbECkgEBNJgBAKABAaoBC2d3cy13aXotaW1n&sclient=img', new=2)
